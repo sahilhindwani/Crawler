@@ -1,0 +1,88 @@
+.jumbotron{
+	text-align: center;
+  margin-top: 100px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  background-color:transparent;
+  color:#2980b9;
+
+}
+p{
+  color:white;
+  margin-left:45%;
+}
+a{
+  color:white;
+
+}
+h4{
+  text-decoration: underline;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+h4{
+  color:white;
+}
+#headermodify{
+	padding-right:50px;
+  }
+
+.links{
+  margin-left: 15px;
+}
+
+.container-fluid{
+  margin-top:0% !important;
+}
+
+#one,#two,#three{
+  visibility: hidden;
+}
+.navbar-default .navbar-nav>.active>a{
+  background: transparent !important;
+  border:1px solid white;
+  border-radius: 5%;
+  color:white !important;
+}
+.navbar-default .navbar-nav>.active>a:hover{
+  background-color: transparent !important;
+  border:1px solid white;
+  border-radius: 5%;
+  color:#bdc3c7;/*idhar change kr chutiye*/
+}
+.navbar-default .navbar-nav > li > a{
+  color:white;
+}
+.navbar-default .navbar-nav > li > a:hover{
+  color:#bdc3c7;/*idhar change kr chutiye*/
+}
+
+.navbar-header{
+  /*color: white;*/
+  background-color: transparent;
+
+}
+.navbar-fixed-top
+{
+  color: yellow !important;
+  background-color:  transparent !important;
+  border:0px !important;
+}
+.navbar-brand
+{
+  color:orange !important;
+  font-weight: bold;
+}
+
+.logo {
+  height:60px;
+  width: 150px;
+}
+
+body{
+	background-color: #ecf0f1;
+  background-image: url('images/b12.jpg');
+}

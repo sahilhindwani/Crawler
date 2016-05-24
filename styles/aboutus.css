@@ -1,0 +1,46 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#headermodify{
+	padding-right:50px;
+}
+
+.container-fluid{
+	padding-top: 67px;
+	margin-top:0px;
+	background-color:  #33ffff;
+	background-size: cover;
+
+}
+
+.navbar .navbar-default , .navbar-fixed-top {
+  background-color:  #b3ccff;
+  height :30.5px;
+
+}
+img {
+	height: 500px;
+	width: 300px;
+}
+
+p {	
+	font-size: 24px;
+}
+
+.col-md-4 {
+	padding-top: 40px;
+}
+.col-md-8 {
+	padding-top: 100px;
+}
+
+.p2 {
+	background-color: red;
+}
+
+.p3 {
+	background-color: green;
+}
