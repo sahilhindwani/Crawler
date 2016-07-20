@@ -17,8 +17,6 @@
 				echo "User details fully updated";
 			}
 
-		else
-			echo "Fuck! your old password and new password does not match Fuck you Bitch!!!";
 
 
 ?>
